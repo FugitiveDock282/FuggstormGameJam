@@ -37,7 +37,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Main Map.md"
+                "file": "Idea Vault/Pavan/Main Map.md"
               }
             }
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Map.md",
+                "file": "Idea Vault/Pavan/Main Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Map.md",
+                "file": "Idea Vault/Pavan/Main Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Map.md"
+                "file": "Idea Vault/Pavan/Main Map.md"
               }
             }
           }
@@ -170,16 +170,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ff4ae197def020f",
+  "active": "82c0398d468d2d15",
   "lastOpenFiles": [
+    "Idea Vault/Pavan/Gameplay Loop.md",
+    "Idea Vault/Pavan/Main Map.md",
     "Introduction.md",
     "Excalidraw/Template.excalidraw.md",
     "Idea Vault/Idea Vault.md",
     "Core.md",
     "Idea Vault/Pavan/Pavan.md",
-    "Idea Vault/Pavan/Gameplay Loop.md",
     "Idea Vault/Pavan",
-    "Main Map.md",
     "Excalidraw",
     "Idea Vault"
   ]
