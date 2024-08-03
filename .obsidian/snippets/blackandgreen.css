@@ -1,0 +1,24 @@
+body {
+	--accent-h: 137;
+    --accent-s: 100%;
+    --accent-l: 50%;
+}
+
+.theme-dark {
+	--color-base-00: #0d140e;
+    --color-base-05: #212121;
+    --color-base-10: #242424;
+    --color-base-20: #000000;
+    --color-base-25: #000000;
+    --color-base-30: #174c1d;
+    --color-base-35: #000000;
+    --color-base-40: #555555;
+    --color-base-50: #666666;
+    --color-base-60: #999999;
+    --color-base-70: #64ac65;
+    --color-base-100: #dadada;
+}
+
+.graph-view.color-line {
+    color: #64ac65;
+}
