@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Idea Vault/Arr Pee Jee/Arr Pee Jee.md",
+                "file": "Idea Vault/Pavan/Pavan.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,11 +35,9 @@
             "id": "5ff4ae197def020f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Idea Vault/Arr Pee Jee/Arr Pee Jee.md",
-                "mode": "source",
-                "source": false
+                "file": "Main Map.md"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Idea Vault/Arr Pee Jee/Arr Pee Jee.md",
+                "file": "Main Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Idea Vault/Arr Pee Jee/Arr Pee Jee.md",
+                "file": "Main Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Idea Vault/Arr Pee Jee/Arr Pee Jee.md"
+                "file": "Main Map.md"
               }
             }
           }
@@ -174,14 +172,14 @@
   },
   "active": "5ff4ae197def020f",
   "lastOpenFiles": [
-    "Idea Vault/Idea Vault.md",
-    "Idea Vault/Arr Pee Jee/Gameplay Loop.md",
-    "Idea Vault/Arr Pee Jee/Arr Pee Jee.md",
-    "Idea Vault/Arr Pee Jee",
-    "Core.md",
-    "Excalidraw/Template.excalidraw.md",
-    "Main Map.md",
     "Introduction.md",
+    "Excalidraw/Template.excalidraw.md",
+    "Idea Vault/Idea Vault.md",
+    "Core.md",
+    "Idea Vault/Pavan/Pavan.md",
+    "Idea Vault/Pavan/Gameplay Loop.md",
+    "Idea Vault/Pavan",
+    "Main Map.md",
     "Excalidraw",
     "Idea Vault"
   ]
