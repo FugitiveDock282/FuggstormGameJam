@@ -1,0 +1,1 @@
+Welcome to the FuggStorm Game Jam 2024! We gonna make a game in a day. Its gonna be good. Lets go!
